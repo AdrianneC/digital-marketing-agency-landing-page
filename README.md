@@ -1,8 +1,8 @@
-# Digital Marketing Agency Website
+# Digital Marketing Agency Landing Page
 
 ## Description
 
-This is a one page landing page created for a digital marketing agency called Horiseon. It should be fully accessible to the reader
+This is a one page landing page created for a digital marketing agency called Horiseon. It should fulfil accessiblility standards for the reader
 
 
 ## Installation
