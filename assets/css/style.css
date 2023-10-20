@@ -4,11 +4,13 @@
     margin: 0;
 }
 
+/* this the body style of the page */
+
 body {
     background-color: #d9dcd6;
 }
 
-/* this the style of the header */
+/* this the style of the header & navigation */
 
 .header {
     padding: 20px;
