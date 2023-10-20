@@ -34,10 +34,6 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -48,9 +44,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* this the style of the hero iage */
 
 .hero {
     height: 800px;
@@ -59,16 +53,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /* this the style of the content blocks */
@@ -95,6 +79,16 @@ p {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* this the style of the sidebar */
