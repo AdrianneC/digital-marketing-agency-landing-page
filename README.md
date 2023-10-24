@@ -4,6 +4,10 @@
 
 This is a one page landing page created for a digital marketing agency called Horiseon. It should fulfil accessiblility standards for the reader
 
+The following image shows the landing page appearance and functionality
+
+![An image of the Horiseon website landing page appearance and functionality.](assets/images/Horiseon-Landing-Page.png)
+
 
 ## Installation
 
@@ -20,3 +24,4 @@ This code was refactored by Adrianne Cookson as part of the Edx front end web de
 ## License
 
 Please refer to the LICENSE in the repo.
+
