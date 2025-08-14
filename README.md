@@ -19,7 +19,7 @@ You can use the webpage to read about the different projects Adrianne has been w
 
 ## Credits
 
-This web page code was created by Adrianne Cookson as part of the Edx front end web development bootcamp
+This web page code was created by Adrianne Cookson 
 
 ## License
 
